@@ -1,16 +1,21 @@
-## Hi there 👋
 
-<!--
-**hackesg/Hackesg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring SOC Analyst | Cybersecurity Learning Journey
 
-Here are some ideas to get you started:
+Learning to think like a defender.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Not every alert is an attack.
+Not every signal is harmless.
+Sometimes the smallest detail tells the biggest story.
+
+Current Focus
+
+• SOC / Blue Team fundamentals
+• Alert analysis & incident thinking
+• Network traffic analysis
+• Log analysis & detection logic
+• Wireless networking with M5 / ESP32
+• Wi-Fi, Bluetooth & network behavior
+
+Approach
+
+Learning by building, analyzing and understanding how technology works.
